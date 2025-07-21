@@ -1,5 +1,6 @@
 Hospital-Management-System
 Project Overview
+
 The Hospital Management System is a collaborative project developed by our team for CodeFurry Competition. Our goal was to create an efficient, user-friendly application to manage hospital operations, focusing on enhancing the experience for users, admins, doctors, and patients. The system is designed to streamline appointments, manage schedules, and handle various administrative tasks.
 
 Team Approach
